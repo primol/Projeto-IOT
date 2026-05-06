@@ -123,6 +123,6 @@ Arduino Uno
 | Nome                    | RA     |
 |-------------------------|--------|
 | Vinicius Trivellato  | 22.223.022-9   |
-| Gustavo Matias  |  22.2.22.22.2.  |
+| Gustavo Matias  |  22.124.007-0  |
 
 ---
